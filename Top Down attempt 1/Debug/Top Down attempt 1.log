@@ -1,0 +1,57 @@
+﻿  main.cpp
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(349,112): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(353,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(475,89): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(475,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(562,53): warning C4018: '<=': signed/unsigned mismatch
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(569,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(574,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(579,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Top Down attempt 1\main.cpp(584,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Top Down attempt 1.vcxproj -> E:\HOMEWORK\biola homework coding\spring 2020\Top Down attempt 1 - Copy\Top Down attempt 1 - Copy\Debug\Top Down attempt 1.exe
